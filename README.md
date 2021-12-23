@@ -1,1 +1,1 @@
-# find-prime-numbers-between-two-inputs
+# find-prime-numbers-between-two-inputs-using-functions
